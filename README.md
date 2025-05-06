@@ -3,9 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-<p align="center">
-  <img alt="projeto Fran AL Silva" src="src/react.jpeg" width="100%">
-</p>
+![image](https://github.com/user-attachments/assets/2634c856-5735-4874-8629-377b2bad6ed5)
+
 
 ## Available Scripts
 
